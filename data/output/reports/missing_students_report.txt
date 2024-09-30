@@ -1,0 +1,2 @@
+Student Name,Student ID,Student SIS ID,Email,Section Name
+Student Eleven,1009,3000000011,student11@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"

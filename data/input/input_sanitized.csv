@@ -1,0 +1,11 @@
+Timestamp,Email Address,What is your name?,What is your student ID?,What is your github.com username?,Would you like to be partnered with a specific person in CS169A?,"If you have someone in mind, write their full name below. Otherwise, you can leave this question blank.","If you have someone in mind, write their full berkeley email address below. Otherwise, you can leave this question blank.",How strong are your Ruby skills?,How strong are your HTML/CSS skills?,How strong are your JavaScript skills?,"Do you generally prefer to meet in-person, or remote?",What times are generally available to meet?,What section have you been attending / planning to attend?,Anything else we should know?
+10/01/2024 09:00:00,student1@example.com,Student One,3000000001,student1gh,Yes,Student Two,student2@example.com,3,4,2,Remote,"Weekdays, Mornings, Mid-day",Section A,
+10/01/2024 09:05:15,student2@example.com,Student Two,3000000002,student2gh,Yes,Student One,student1@example.com,4,3,5,Remote,"Weekends, Evenings",Section A,
+10/01/2024 09:10:30,student3@example.com,Student Three,3000000003,student3gh,No,,,2,2,3,No Preference,"6PM Tuesday, 2PM Wednesday",Section B,
+10/01/2024 09:15:45,student4@example.com,Student Four,3000000004,student4gh,No,,,5,5,5,In Person,"Mid-day, Afternoons",Section B,
+10/01/2024 09:20:00,student5@example.com,Student Five,3000000005,student5gh,No,,,4,2,2,Remote,Mornings,Section A,
+10/01/2024 09:25:15,student6@example.com,Student Six,3000000006,student6gh,No,,,4,4,4,In Person,"Evenings, Weekends",Section A,
+10/01/2024 09:30:30,student7@example.com,Student Seven,3000000007,student7gh,Yes,Student Five,student5@example.com,1,1,1,Remote,"Weekdays, Evenings",Section B,
+10/01/2024 09:35:45,student8@example.com,Student Eight,3000000008,student8gh,No,,,3,3,3,In Person,"Weekends, Mid-day",Section B,
+10/01/2024 09:40:00,student9@example.com,Student Nine,3000000009,student9gh,No,,,2,2,2,Remote,"Weekdays, Evenings",Section A,
+10/01/2024 09:45:15,student10@example.com,Student Ten,3000000010,student10gh,No,,,5,5,5,In Person,"Weekdays, Evenings",Section A,

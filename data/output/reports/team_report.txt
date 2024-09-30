@@ -1,0 +1,9 @@
+Total students processed: 11
+Number of groups formed: 3
+Groups with 3 students: 1
+Groups with 4 students: 2
+Students in preference loops: 1
+Detected 1 preference loop(s) involving 2 students:
+Loop 1: Student One -> Student Two -> Student One
+
+Unassigned students:

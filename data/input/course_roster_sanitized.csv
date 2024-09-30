@@ -1,0 +1,12 @@
+Student Name,Student ID,Student SIS ID,Email,Section Name
+Student One,1001,3000000001,student1@example.com,"COMPSCI 169A DIS 999 (In Person), COMPSCI 169A LEC 001 (In Person)"
+Student Two,1002,3000000002,student2@example.com,"COMPSCI 169A DIS 999 (In Person), COMPSCI 169A LEC 001 (In Person)"
+Student Three,1003,3000000003,student3@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
+Student Four,1004,3000000004,student4@example.com,"COMPSCI 169A DIS 999 (In Person), COMPSCI 169A LEC 001 (In Person)"
+Student Five,1005,3000000005,student5@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
+Student Six,1006,3000000006,student6@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
+Student Seven,1007,3000000007,student7@example.com,"COMPSCI 169A DIS 999 (In Person), COMPSCI 169A LEC 001 (In Person)"
+Student Eight,1008,3000000008,student8@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
+Student Nine,1009,3000000009,student9@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
+Student Ten,1008,3000000010,student10@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
+Student Eleven,1009,3000000011,student11@example.com,"COMPSCI 169A LEC 001 (In Person), COMPSCI 169A DIS 999 (In Person)"
